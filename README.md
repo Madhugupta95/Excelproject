@@ -23,7 +23,7 @@ Welcome to the Bike Sales Dashboard! 🚀 This Excel tool allows you to dive int
 
 ## Issues and Feedback 💬
 
-If you encounter any issues or have suggestions for improvement, feel free to [open an issue](link-to-issues) or [reach out](link-to-contact).
+If you encounter any issues or have suggestions for improvement, feel free to [reach out](https://www.linkedin.com/in/madhu-gupta-0953a0209/).
 
 ## Contribution 🤝
 
