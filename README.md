@@ -15,19 +15,9 @@ Welcome to the Bike Sales Dashboard! 🚀 This Excel tool allows you to dive int
 3. Explore different sheets for various aspects of bike sales data.
 
 ## Screenshots 📸
-
-
-
 ![image](https://github.com/Madhugupta95/Excelproject/assets/117964914/e8b8d193-2026-4634-a571-6b20b2a686c9)
-
-
 ## Issues and Feedback 💬
-
 If you encounter any issues or have suggestions for improvement, feel free to [reach out](https://www.linkedin.com/in/madhu-gupta-0953a0209/).
-
-
 ## Contribution 🤝
-
 Contributions are welcome! Fork the repository, make your changes, and submit a pull request.
-
 Happy Analyzing! 🚴‍♀️📈
